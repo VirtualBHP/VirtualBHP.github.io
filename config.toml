@@ -1,0 +1,9 @@
+baseURL = 'http://VirtualBHP.github.io/'
+languageCode = 'en-us'
+title = 'My New Hugo Site'
+theme = "PaperMod"
+
+[[menu.main]]
+identifier = "categories"
+name = "Categories"
+url = /categories/
