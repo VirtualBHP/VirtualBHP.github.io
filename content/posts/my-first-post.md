@@ -2,6 +2,9 @@
 title: "My First Post"
 date: 2023-05-09T19:32:54+08:00
 draft: false
+
+tags: ["code","test"]
+categories: ["Markdown"]
 ---
 # _Hello world_
 - ooooo
