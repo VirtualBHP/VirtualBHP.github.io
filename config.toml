@@ -6,4 +6,13 @@ theme = "PaperMod"
 [[menu.main]]
 identifier = "categories"
 name = "Categories"
-url = /categories/
+url = "/categories/"
+[[menu.main]]
+
+identifier = "tags"
+
+name = "Tags"
+
+url = "/tags/"
+
+weight = 10
